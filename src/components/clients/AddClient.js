@@ -45,6 +45,7 @@ class AddClient extends Component {
             </Link>
           </div>
         </div>
+
         <div className="card">
           <div className="card-header">Add Client</div>
           <div className="card-body">
